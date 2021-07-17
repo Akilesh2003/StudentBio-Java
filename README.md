@@ -1,4 +1,5 @@
 # StudentBio-Java
 
 Implementing a simple UserInterface class & StudentBio class that stores student details. 
-Doing this as I learn java.
+
+Doing this while I learn java.
